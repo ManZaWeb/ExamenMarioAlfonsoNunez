@@ -17,15 +17,32 @@ h1{
     flex-direction: column;
 }
 input{
-    width: 25rem;
+    margin-top: 1rem;
+    width: 15rem;
     height: 1.5rem;
+    border-radius: 3px;
 }
 
 label{
     font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
 }
 
 button{
+    margin-right: 50px;
+    margin-top: 1rem;
     background-color: #007BFF;
+    color: white;
+    height: 45px;
+    width: 100px;
+    border: none;
+    font-weight: 600;
 
+}
+
+.msg{
+    margin-right: 50px;
+    margin-top: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
 }

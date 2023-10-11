@@ -10,9 +10,11 @@ calcu.addEventListener('click', function (){
     let area = long * ancho
     let perimetro = (long + ancho) * 2
     let diagonal = Math.sqrt(Math.pow(long, 2) + Math.pow(ancho, 2))
-
-    m1.innerHTML = "Área del rectangulo: " + area
-    m2.innerHTML = "Perímetro del rectangulo: " + perimetro
-    m3.innerHTML = "Diagonal del rectangulo: " + diagonal
+    
+   
+    m1.innerHTML = "Área del rectangulo: " + area.toFixed(2)
+    m2.innerHTML = "Perímetro del rectangulo: " + perimetro.toFixed(2)
+    m3.innerHTML = "Diagonal del rectangulo: " + diagonal.toFixed(2)
+   
 } )
 })
