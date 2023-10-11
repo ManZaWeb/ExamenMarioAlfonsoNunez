@@ -1,3 +1,5 @@
+//Author: Mario Alfonso Nuñez
+//GitHub link: 
 document.addEventListener("DOMContentLoaded", function (){
 //Elementos necesarios del DOM
 const calcu = document.getElementById("calcu")
