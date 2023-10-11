@@ -19,8 +19,9 @@ h1{
 input{
     margin-top: 1rem;
     width: 15rem;
-    height: 1.5rem;
+    height: 1.75rem;
     border-radius: 3px;
+    
 }
 
 label{
