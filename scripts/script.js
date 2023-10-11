@@ -1,5 +1,5 @@
 //Author: Mario Alfonso Nuñez
-//GitHub link: 
+//GitHub link: https://github.com/ManZaWeb/ExamenMarioAlfonsoNunez.git
 
 document.addEventListener("DOMContentLoaded", function (){
 //Elementos necesarios del DOM
